@@ -6,14 +6,14 @@
         <admin>
             <id>0</id>
             <name>Elroy Kanye</name>
-            <role>admin</role>
             <email>elroykdev@gmail.com</email>
+            <occupation>student,developer</occupation>
         </admin>
         <admin>
             <id>1</id>
             <name>admin</name>
-            <role>admin</role>
             <email>admin@gmail.com</email>
+            <occupation>none</occupation>
         </admin>
     </admins>
 
@@ -22,14 +22,8 @@
         <member>
             <id>0</id>
             <name>member</name>
-            <role>member</role>
             <email>member@mail.com</email>
-        </member>
-        <member>
-            <id>0</id>
-            <name>member</name>
-            <role>member</role>
-            <email>member@mail.com</email>
+            <occupation>none</occupation>
         </member>
     </members>
 </mlsa>

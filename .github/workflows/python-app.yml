@@ -27,6 +27,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Lint with flake8
+    - name: Validate Member ID
       run: |
-        python validate.py
+        python validate.py members.xml
