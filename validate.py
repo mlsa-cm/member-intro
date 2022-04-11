@@ -13,14 +13,12 @@ def validate(xml_file):
                 user_id = user.find('id').text
                 if user.tag == 'admin':
                     if user_id in admin_ids:
-                        print('Duplicate admin id: {}'.format(user_id))
-                        exit(2)
+                        raise Exception('Duplicate admin id: {}'.format(user_id))
                     else:
                         admin_ids.append(user_id)
                 elif user.tag == 'member':
                     if user_id in member_ids:
-                        print('Duplicate member id: {}'.format(user_id))
-                        exit(2)
+                        raise Exception('Duplicate member id: {}'.format(user_id))
                     else:
                         member_ids.append(user_id)
 
