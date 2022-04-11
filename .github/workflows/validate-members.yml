@@ -29,4 +29,4 @@ jobs:
     - name: Validate Member IDs
       run: |
         python validate.py
-        if [ $? -ne 0 ]; then exit 1; fi
+        if [ $? -ne 0 ]; then exit 1; echo "Duplicate member id in this PR"; fi
