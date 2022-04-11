@@ -25,11 +25,5 @@
             <role>member</role>
             <email>member@mail.com</email>
         </member>
-        <member>
-            <id>0</id>
-            <name>member</name>
-            <role>member</role>
-            <email>member@mail.com</email>
-        </member>
     </members>
 </mlsa>
