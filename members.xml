@@ -25,5 +25,11 @@
             <email>member@mail.com</email>
             <occupation>none</occupation>
         </member>
+        <member>
+            <id>1</id>
+            <name>Franclin Muluh</name>
+            <email>mulfranck5@gmail.com</email>
+            <occupation>student</occupation>
+        </member>
     </members>
 </mlsa>
