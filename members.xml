@@ -11,9 +11,9 @@
         </admin>
         <admin>
             <id>1</id>
-            <name>admin</name>
-            <email>admin@gmail.com</email>
-            <occupation>none</occupation>
+            <name>Alain Kimbu</name>
+            <email>alainkimbu@gmail.com</email>
+            <occupation>student</occupation>
         </admin>
     </admins>
 
