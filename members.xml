@@ -11,9 +11,9 @@
         </admin>
         <admin>
             <id>1</id>
-            <name>admin</name>
-            <email>admin@gmail.com</email>
-            <occupation>none</occupation>
+            <name>Alain Kimbu</name>
+            <email>alainkimbu@gmail.com</email>
+            <occupation>student</occupation>
         </admin>
     </admins>
 
@@ -27,6 +27,12 @@
         </member>
         <member>
             <id>1</id>
+            <name>Mofiro Jean</name>
+            <email>mofirojean@mail.com</email>
+            <occupation>Student</occupation>
+        </member>
+      <member>
+            <id>2</id>
             <name>NDI Lionel</name>
             <email>ndilionel6@mail.com</email>
             <occupation>Student</occupation>
