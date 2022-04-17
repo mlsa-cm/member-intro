@@ -43,5 +43,11 @@
             <email>mulfranck5@mail.com</email>
             <occupation>Student</occupation>
         </member>
+        <member>
+            <id>4</id>
+            <name>Neba Desmond</name>
+            <email>desmondneba134@gmail.com</email>
+            <occupation>Student</occupation>
+        </member>
     </members>
 </mlsa>
