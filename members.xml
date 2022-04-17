@@ -15,6 +15,12 @@
             <email>alainkimbu@gmail.com</email>
             <occupation>student</occupation>
         </admin>
+        <admin>
+            <id>2</id>
+            <name>Abongwa Bonalais Amahnui</name>
+            <email>abongwabonalais@gmail.com</email>
+            <occupation>student</occupation>
+        </admin>
     </admins>
 
     <!-- Members -->
