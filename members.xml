@@ -56,5 +56,11 @@
             <occupation>Student</occupation>
 
         </member>
+        <member>
+            <id>5</id>
+            <name>Ayoko Delia</name>
+            <email>d3liaayoko@gmail.com</email>
+            <occupation>Student</occupation>
+        </member>
     </members>
 </mlsa>
