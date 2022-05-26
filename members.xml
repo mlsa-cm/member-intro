@@ -35,7 +35,7 @@
             <id>1</id>
             <name>Nfuh Anderson</name>
             <email>andylodme@gmail.com</email>
-            <occupation>student, developer</occupation>
+            <occupation>student</occupation>
         </member
         <member>
             <id>1</id>
@@ -60,7 +60,6 @@
             <name>Neba Desmond</name>
             <email>desmondneba134@gmail.com</email>
             <occupation>Student</occupation>
-
         </member>
     </members>
 </mlsa>
